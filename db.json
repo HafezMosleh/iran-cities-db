@@ -1,0 +1,7 @@
+{
+  "provinces": [
+    {"name": "Tehran", "cities": ["Tehran", "Damavand", "Rey"]},
+    {"name": "Fars", "cities": ["Shiraz", "Marvdasht", "Jahrom"]},
+    {"name": "Isfahan", "cities": ["Isfahan", "Kashan", "Najafabad"]}
+  ]
+}
